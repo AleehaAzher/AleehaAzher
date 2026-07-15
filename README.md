@@ -76,4 +76,4 @@ Designed a secure hospital network using VLAN segmentation to isolate department
 ## Let's Connect
 
 - LinkedIn: [https://www.linkedin.com/in/aleeha-azher-346864338]
-- Email: aleehaazher12@email.com
+- Email: aleehaazher12@gmail.com
